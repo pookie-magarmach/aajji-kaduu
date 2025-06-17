@@ -84,7 +84,7 @@ def challenge_intro(image_path):
     print_slow("Use your *skills* to analyze the image carefully. 🖼️")
     print_slow("Once you find the *place* where it was taken, find the *nearest metro station* to it. 🚇")
     print_slow("The flag format will be:")
-    print_slow(f'{RED}CSAY{{"Place"_"Name"+"station"_"Name"}}{RESET} 🏆')
+    print_slow(f'{RED}I4C{{"Place"_"Name"+"station"_"Name"}}{RESET} 🏆')
     print_slow("Good luck! 🕵️‍♂️")
 
 def main():
